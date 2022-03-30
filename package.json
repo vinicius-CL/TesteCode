@@ -1,0 +1,15 @@
+{
+  "name": "lets-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node aula2-axios.js"
+  },
+  "author": "Vinicius de Castro",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "type": "module"
+}
